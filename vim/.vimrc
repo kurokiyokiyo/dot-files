@@ -5,7 +5,7 @@ set showcmd
 
 set number
 set cursorline
-set cursorcolumn
+"set cursorcolumn
 set smartindent
 set visualbell
 
